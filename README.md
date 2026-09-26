@@ -1,5 +1,5 @@
-# DSpice
-DSpice: Design and Simulation of Circuits using Spice
+# DSpice (Under construction)
+DSpice: Design and Simulation of Circuits using Spice (Under construction)
 
 <h4 align="center">
     <a href="https://dspice.sourceforge.io/"><img src="https://dspice.sourceforge.io/logo.png" width="175px" alt="DSpice"></a>
