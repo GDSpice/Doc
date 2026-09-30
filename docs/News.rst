@@ -8,7 +8,23 @@ News
 What's New
 ----------
 
+`v0.1.5`_ - 2026-09-25
+=======================
 
+Added
+------
+
+* <span style="color:red">**Simulation Analysis Scope:** OP (Operating Point) analysis is now fully functional and supported, while TR (Transient), DC, and AC analyses are postponed to upcoming releases.</span>
+* **Description Pane Controls:** Added a dedicated button to toggle (show/hide) the circuit description pane.
+* **Element Type Display:** Enhanced the description panel to dynamically show the currently selected element type.
+* **Symbol Model Management:** Added an "add model" button specifically tailored for symbol (`.sym`) files.
+
+Changed
+--------
+
+* **Comprehensive Theme Support:** Updated colors for Rectangle, Ellipse, Arc, Polygon, Polyline, Wire, and Pin shapes, along with toolbar button SVGs, to ensure seamless compatibility with all VS Code themes.
+* **HTML Description Theming:** Added full VS Code theme support to the HTML circuit description view and refined symbol list styling.
+* **Basic Symbol Refinement:** Updated the colors and naming conventions of basic symbols, including ports, V bar, and GND.
 
 `v0.1.4`_ - 2026-09-20
 =======================
@@ -102,7 +118,8 @@ Fixed
 
 * **Bug Fixes:** Revised and resolved multiple stability issues related to DC Analysis, schematic circuit rendering, and custom symbol design.
 
-.. _v0.1.4: https://github.com/GDSpice/DSpice-VSCode/releases/tag/v0.1.4
-.. _v0.1.3: https://github.com/GDSpice/DSpice-VSCode/releases/tag/v0.1.3
-.. _v0.1.2: https://github.com/GDSpice/DSpice-VSCode/releases/tag/v0.1.2
-.. _v0.1.1: https://github.com/GDSpice/DSpice-VSCode/releases/tag/v0.1.1
+.. _v0.1.5: https://github.com/GDSpice/DSpice/releases/tag/v0.1.5
+.. _v0.1.4: https://github.com/GDSpice/DSpice/releases/tag/v0.1.4
+.. _v0.1.3: https://github.com/GDSpice/DSpice/releases/tag/v0.1.3
+.. _v0.1.2: https://github.com/GDSpice/DSpice/releases/tag/v0.1.2
+.. _v0.1.1: https://github.com/GDSpice/DSpice/releases/tag/v0.1.1

@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DSpice Extension and Circuit Editor for VSCode 
-==========================================================
+Welcome to DSpice
+==================
 
 
 What is DSpice?
