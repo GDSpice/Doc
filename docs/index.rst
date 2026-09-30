@@ -3,9 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-Welcome to DSpice documentation
-================================
+Welcome to DSpice Extension and Circuit Editor for VSCode 
+==========================================================
 
 
 What is DSpice?
@@ -21,10 +20,26 @@ The main objectives and features of DSpice are:
 * **Circuit Simulation:** Executing simulations seamlessly using ngspice commands.
 * **Waveform Visualization:** Analyzing and presenting simulation results through a dedicated waveform viewer.
 
-**Licensing:**
+
+The DSpice VS Code Extension
+============================
+
+To bring the DSpice CAD experience directly into your development environment, we provide a dedicated **Visual Studio Code Extension**. This extension integrates seamlessly with the IDE by registering Custom Editors, allowing you to visually design and manage your projects without leaving VS Code.
+
+Key capabilities of the VS Code extension include:
+
+* **Custom File Editors:** Native visual editing support for `.dcs` (Circuit Schematics) and `.sym` (Component Symbols) files.
+* **Interactive Drawing Canvas:** A full-featured graphical environment equipped with zoom, pan, grid snapping, and a dynamic context-aware toolbar.
+* **Seamless IDE Integration:** Deep integration with VS Code's native features, including full support for Undo/Redo history, clipboard operations (Copy/Cut/Paste), and workspace file management.
+
+
+Licensing
+=========
+
 DSpice is fully open-source and released under the **MIT License**. 
 This means that anyone can freely use, modify, and distribute the software, provided 
 that any derivative works also adhere to the same licensing terms.
+
 
 .. panels::
 
@@ -47,5 +62,6 @@ Table of Contents
   Overview.rst
   News.rst
   Future.rst
+  simulation.rst
 
 .. End

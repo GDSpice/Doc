@@ -22,8 +22,8 @@ copyright = '2026, DSpice'
 author = 'd.fathi'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1.4'
-version='DSpice 0.1.4'
+release = '0.1.5'
+version='DSpice 0.1.5'
 
 
 # -- General configuration ---------------------------------------------------
@@ -75,7 +75,25 @@ html_theme_options = {
     "display_version": True
 }
 
+html_context = {
+    'display_github': True,
+    'github_user': 'GDSpice',
+    'github_repo': 'DSpice',
+    'github_version': 'main',
+    'conf_py_path': '/docs/',
+}
 
+# -- Options for HTML output -------------------------------------------------
+
+# ..
+
+'''
+rst_prolog = """
+.. image:: https://img.shields.io/github/stars/GDSpice/DSpice?style=social
+   :target: https://github.com/GDSpice/DSpice
+   :alt: GitHub Stars
+"""
+'''
 
 #"navigation_depth": 3,
 #"includehidden": True,
