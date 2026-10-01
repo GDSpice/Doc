@@ -1,11 +1,12 @@
-#DSpice Documentation (v0.1.5)
+
+### DSpice Documentation (v0.1.6)
 
 Welcome to the documentation repository for **DSpice** (Designing Circuits and Simulation by SPICE). 
 This repository contains all the official documentation source files that are automatically built and published to Read the Docs.
 
 **Live Documentation:**  
 You can read the full and up-to-date documentation here:  
-[https://dspice.readthedocs.io/en/latest/index.html](https://dspice.readthedocs.io/en/latest/index.html)
+[https://dspice.readthedocs.io/](https://dspice.readthedocs.io/)
 
 ---
 

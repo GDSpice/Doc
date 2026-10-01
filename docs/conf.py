@@ -22,8 +22,8 @@ copyright = '2026, DSpice'
 author = 'd.fathi'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1.5'
-version='DSpice 0.1.5'
+release = '0.1.6'
+version='DSpice 0.1.6'
 
 
 # -- General configuration ---------------------------------------------------
@@ -69,16 +69,17 @@ html_static_path = ['_static']
 html_logo = "logo_01.png"
 html_favicon = "logo_01.png"
 html_theme_options = {
-    "navigation_depth": 5,
+    "navigation_depth": 3,
     "collapse_navigation": False,
-      "logo_only": True,
-    "display_version": True
+    "logo_only": True,
+    "display_version": True,
+    "sidebar_logo_width": "120px"
 }
 
 html_context = {
     'display_github': True,
     'github_user': 'GDSpice',
-    'github_repo': 'DSpice',
+    'github_repo': 'Docs',
     'github_version': 'main',
     'conf_py_path': '/docs/',
 }

@@ -57,7 +57,7 @@ that any derivative works also adhere to the same licensing terms.
 Table of Contents
 *******************
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
   Overview.rst
   News.rst
