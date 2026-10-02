@@ -73,7 +73,7 @@ html_theme_options = {
     "collapse_navigation": False,
     "logo_only": True,
     "display_version": True,
-    "sidebar_logo_width": "120px"
+    "sidebar_logo_width": "100px"
 }
 
 html_context = {

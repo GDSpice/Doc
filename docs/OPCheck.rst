@@ -15,7 +15,7 @@ Tutorial Reference
 .. image:: images/OP_check.gif
    :alt: DSPICE Circuit Editor Toolbar Interface
    :align: center
-   :width: 60%
+   :width: 100%
 
 Step-by-Step Procedure
 ----------------------
