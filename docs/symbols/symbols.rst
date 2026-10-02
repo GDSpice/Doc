@@ -23,7 +23,6 @@ Fundamental passive elements used in circuit design.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Basic Elements
 
    basic/Resistor
    # basic/Capacitor
@@ -36,7 +35,6 @@ Independent voltage and current sources for powering circuits.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sources
 
    sources/Vdc
    # sources/Vac

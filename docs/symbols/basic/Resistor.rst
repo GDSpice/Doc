@@ -9,6 +9,7 @@ Symbol
 ------
 
 The schematic symbol for the Resistor follows the IEEE/ANSI standard zigzag representation. 
+
 .. image:: resistor.png
    :alt: Resistor Symbol
    :align: center
