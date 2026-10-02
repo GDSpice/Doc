@@ -8,12 +8,11 @@ The **Resistor** is a fundamental passive component in the DSpice Basic library,
 Symbol
 ------
 
-The schematic symbol for the Resistor follows the IEEE/ANSI standard zigzag representation. It features two connection terminals marked by green squares, indicating the points where the component connects to the circuit net. The main body of the symbol is drawn as a blue zigzag line with red terminal leads extending from both sides.
-
+The schematic symbol for the Resistor follows the IEEE/ANSI standard zigzag representation. 
 .. image:: resistor.png
    :alt: Resistor Symbol
    :align: center
-   :width: 400px
+ 
 
 Description
 -----------

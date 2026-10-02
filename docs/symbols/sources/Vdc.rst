@@ -8,12 +8,11 @@ The **VDC Source** is a fundamental independent voltage source in the DSpice Sou
 Symbol
 ------
 
-The schematic symbol for the VDC Source typically follows the standard IEEE/ANSI representation for an independent DC voltage source. It consists of a circle containing polarity indicators (+/-) or a battery-like stack, with two connection terminals marked by green squares indicating the positive and negative nodes.
+The schematic symbol for the VDC Source typically follows the standard IEEE/ANSI representation for an independent DC voltage source.
 
 .. image:: vdc.png
    :alt: VDC Source Symbol
    :align: center
-   :width: 400px
 
 Description
 -----------
@@ -84,11 +83,6 @@ Where:
 
 - ``[Rser=<value>]``: Optional advanced parameter for internal series resistance in Ohms. 
   
-
-.. note::
-   Do NOT use ``R=value`` to specify internal resistance. The correct keyword is ``Rser``.
-   Alternatively, you can place a separate resistor component in series with an ideal VDC source
-   for maximum compatibility across all SPICE variants.
 
 Use Cases
 ~~~~~~~~~

@@ -66,14 +66,13 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_logo = "logo_01.png"
-html_favicon = "logo_01.png"
+html_logo = "logo.png"
+html_favicon = "logo.png"
 html_theme_options = {
     "navigation_depth": 3,
     "collapse_navigation": False,
     "logo_only": True,
-    "display_version": True,
-    "sidebar_logo_width": "100px"
+    "display_version": True
 }
 
 html_context = {
