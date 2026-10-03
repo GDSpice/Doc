@@ -3,9 +3,10 @@ Simulation
 ============
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
-  simltionOP.rst
-  OPCheck.rst
+   
+   simltionOP.rst
+   OPCheck.rst
 
 .. End

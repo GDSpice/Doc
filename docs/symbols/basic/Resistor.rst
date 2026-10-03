@@ -82,6 +82,3 @@ Use Cases
 - **Sensor Simulation:** Modeling thermistors or RTDs with precise temperature curves.
 - **Thermal Stability Analysis:** Evaluating circuit performance across industrial temperature ranges (-40°C to +85°C).
 - **Precision Circuits:** Compensating for drift in high-accuracy measurement systems.
-
-.. note::
-   Modified symbols are stored locally in your project workspace. To share them across projects, export the symbol to the global DSpice library using the "Export to Library" option in the Symbol Editor.

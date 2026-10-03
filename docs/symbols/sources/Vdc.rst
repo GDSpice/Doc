@@ -90,6 +90,3 @@ Use Cases
 - **Power Supply Modeling:** Simulating real-world batteries or adapters with internal impedance.
 - **Load Regulation Analysis:** Evaluating how output voltage drops under varying load conditions.
 - **Transient Protection:** Studying inrush currents when connecting capacitive loads to non-ideal sources.
-
-.. note::
-   Modified symbols are stored locally in your project workspace. To share them across projects, export the symbol to the global DSpice library using the "Export to Library" option in the Symbol Editor.
